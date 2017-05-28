@@ -66,11 +66,11 @@ label{
 .banner p {
     color: #fff44f;
     margin: 10px 0 30px 0;
-    font-size: 18px;
+    font-size: 24px;
 }
 .banner a {
 	text-decoration: none;
-    color: #fff44f;
+    color: #fff;
     font-size: 17px;
     background-color: #f3c500;
     padding: 10px 20px;
